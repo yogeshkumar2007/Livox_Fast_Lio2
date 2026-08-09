@@ -1,5 +1,5 @@
-create a workspace
-install livox driver2 and sdk
+1. create a workspace
+2. install livox driver2 and sdk
 check the ip addr 
 Terminal 1 - ros2 launch livox_ros_driver2 msg_MID360_launch.py
 Terminal 2 - ros2 run imu_unit_converter imu_converter
